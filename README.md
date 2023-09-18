@@ -15,7 +15,6 @@ This is a simple calculator application created in Java using the Swing and AWT 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Objective
 
